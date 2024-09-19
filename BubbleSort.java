@@ -8,7 +8,8 @@ public class BubbleSort {
         // Generate an array of random integers
 
         int[] data = generateRandomArray(10, 100);
-
+        
+        //show assertion test
         int a = 1;
         int b = 2;
         assert(a==b):"error 22 (1)";
